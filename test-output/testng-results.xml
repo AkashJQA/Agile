@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10223" started-at="2021-11-16T08:41:17Z" finished-at="2021-11-16T08:41:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10223" started-at="2021-11-16T08:41:17Z" finished-at="2021-11-16T08:41:28Z">
+      <class name="com.StepDefination.Tc_001">
+        <test-method status="PASS" signature="SetUp(java.lang.String)[pri:0, instance:com.StepDefination.Tc_001@3159c4b8]" name="SetUp" is-config="true" duration-ms="7476" started-at="2021-11-16T14:11:17Z" finished-at="2021-11-16T14:11:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.StepDefination.Tc_001@3159c4b8]" name="loginTest" duration-ms="1966" started-at="2021-11-16T14:11:25Z" finished-at="2021-11-16T14:11:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.StepDefination.Tc_001@3159c4b8]" name="tearDown" is-config="true" duration-ms="745" started-at="2021-11-16T14:11:27Z" finished-at="2021-11-16T14:11:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.StepDefination.Tc_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
